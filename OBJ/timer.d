@@ -3,7 +3,7 @@
 ..\obj\timer.o: ..\SYSTEM\sys\sys.h
 ..\obj\timer.o: ..\USER\stm32f4xx.h
 ..\obj\timer.o: ..\CORE\core_cm4.h
-..\obj\timer.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\timer.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\timer.o: ..\FWLIB\CMSIS\Include\core_cmInstr.h
 ..\obj\timer.o: ..\FWLIB\CMSIS\Include\core_cmFunc.h
 ..\obj\timer.o: ..\CORE\core_cm4_simd.h

@@ -16,7 +16,7 @@
 ..\obj\dock.o: ..\EMWIN\STemWin\inc\GUI_Private.h
 ..\obj\dock.o: ..\EMWIN\STemWin\inc\LCD_Protected.h
 ..\obj\dock.o: ..\EMWIN\STemWin\inc\GUI_Debug.h
-..\obj\dock.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\dock.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\obj\dock.o: ..\EMWIN\STemWin\inc\SCROLLBAR.h
 ..\obj\dock.o: ..\EMWIN\STemWin\inc\WIDGET.h
 ..\obj\dock.o: ..\EMWIN\STemWin\inc\CALENDAR.h
@@ -48,7 +48,7 @@
 ..\obj\dock.o: ..\SYSTEM\sys\sys.h
 ..\obj\dock.o: ..\USER\stm32f4xx.h
 ..\obj\dock.o: ..\CORE\core_cm4.h
-..\obj\dock.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\dock.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\dock.o: ..\FWLIB\CMSIS\Include\core_cmInstr.h
 ..\obj\dock.o: ..\FWLIB\CMSIS\Include\core_cmFunc.h
 ..\obj\dock.o: ..\CORE\core_cm4_simd.h

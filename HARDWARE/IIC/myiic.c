@@ -109,17 +109,20 @@ void IIC_Send_Byte(u8 txd)
 {
 	u8 t;   
 	SDA_OUT(); 	    
-  IIC_SCL=0;//拉低时钟开始数据传输
-  for(t=0;t<8;t++)
-  {              
-    IIC_SDA=(txd&0x80)>>7;
-    txd<<=1; 	  
+	IIC_SCL=0;//拉低时钟开始数据传输
+	for(t=0;t<8;t++)
+	{              
+		IIC_SDA=(txd&0x80)>>7;
+		txd<<=1; 	  
 		delay_us(2);   //对TEA5767这三个延时都是必须的
+		
+		//让接收器读取数据
 		IIC_SCL=1;
 		delay_us(2); 
+		//继续发送数据
 		IIC_SCL=0;	
 		delay_us(2);
-  }	 
+	}	 
 }
 
 //读1个字节，ack=1时，发送ACK，ack=0，发送nACK   

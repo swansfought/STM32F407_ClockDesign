@@ -3,7 +3,7 @@
 ..\obj\rtc.o: ..\SYSTEM\sys\sys.h
 ..\obj\rtc.o: ..\USER\stm32f4xx.h
 ..\obj\rtc.o: ..\CORE\core_cm4.h
-..\obj\rtc.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\rtc.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\rtc.o: ..\FWLIB\CMSIS\Include\core_cmInstr.h
 ..\obj\rtc.o: ..\FWLIB\CMSIS\Include\core_cmFunc.h
 ..\obj\rtc.o: ..\CORE\core_cm4_simd.h
@@ -39,5 +39,5 @@
 ..\obj\rtc.o: ..\SYSTEM\delay\delay.h
 ..\obj\rtc.o: ..\HARDWARE\LED\led.h
 ..\obj\rtc.o: ..\SYSTEM\usart\usart.h
-..\obj\rtc.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\rtc.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 ..\obj\rtc.o: ..\HARDWARE\BEEP\beep.h

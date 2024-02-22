@@ -16,7 +16,7 @@
 ..\obj\calendar.o: ..\EMWIN\STemWin\inc\GUI_Private.h
 ..\obj\calendar.o: ..\EMWIN\STemWin\inc\LCD_Protected.h
 ..\obj\calendar.o: ..\EMWIN\STemWin\inc\GUI_Debug.h
-..\obj\calendar.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\calendar.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\obj\calendar.o: ..\EMWIN\STemWin\inc\SCROLLBAR.h
 ..\obj\calendar.o: ..\EMWIN\STemWin\inc\WIDGET.h
 ..\obj\calendar.o: ..\EMWIN\STemWin\inc\CALENDAR.h
@@ -48,7 +48,7 @@
 ..\obj\calendar.o: ..\SYSTEM\sys\sys.h
 ..\obj\calendar.o: ..\USER\stm32f4xx.h
 ..\obj\calendar.o: ..\CORE\core_cm4.h
-..\obj\calendar.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\calendar.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\calendar.o: ..\FWLIB\CMSIS\Include\core_cmInstr.h
 ..\obj\calendar.o: ..\FWLIB\CMSIS\Include\core_cmFunc.h
 ..\obj\calendar.o: ..\CORE\core_cm4_simd.h
@@ -81,6 +81,6 @@
 ..\obj\calendar.o: ..\FWLIB\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dac.h
 ..\obj\calendar.o: ..\FWLIB\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dcmi.h
 ..\obj\calendar.o: ..\FWLIB\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_fsmc.h
-..\obj\calendar.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
-..\obj\calendar.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
-..\obj\calendar.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\calendar.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\calendar.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\calendar.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

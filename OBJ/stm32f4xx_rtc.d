@@ -2,7 +2,7 @@
 ..\obj\stm32f4xx_rtc.o: ..\FWLIB\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_rtc.h
 ..\obj\stm32f4xx_rtc.o: ..\USER\stm32f4xx.h
 ..\obj\stm32f4xx_rtc.o: ..\CORE\core_cm4.h
-..\obj\stm32f4xx_rtc.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\stm32f4xx_rtc.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\stm32f4xx_rtc.o: ..\FWLIB\CMSIS\Include\core_cmInstr.h
 ..\obj\stm32f4xx_rtc.o: ..\FWLIB\CMSIS\Include\core_cmFunc.h
 ..\obj\stm32f4xx_rtc.o: ..\CORE\core_cm4_simd.h

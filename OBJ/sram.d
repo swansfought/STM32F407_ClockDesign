@@ -3,7 +3,7 @@
 ..\obj\sram.o: ..\SYSTEM\sys\sys.h
 ..\obj\sram.o: ..\USER\stm32f4xx.h
 ..\obj\sram.o: ..\CORE\core_cm4.h
-..\obj\sram.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\sram.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\sram.o: ..\FWLIB\CMSIS\Include\core_cmInstr.h
 ..\obj\sram.o: ..\FWLIB\CMSIS\Include\core_cmFunc.h
 ..\obj\sram.o: ..\CORE\core_cm4_simd.h
@@ -37,6 +37,6 @@
 ..\obj\sram.o: ..\FWLIB\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dcmi.h
 ..\obj\sram.o: ..\FWLIB\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_fsmc.h
 ..\obj\sram.o: ..\SYSTEM\usart\usart.h
-..\obj\sram.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\sram.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 ..\obj\sram.o: ..\XMRAM\XMRAM.h
 ..\obj\sram.o: ..\SYSTEM\delay\delay.h

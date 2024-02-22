@@ -443,13 +443,12 @@ ARM Macro Assembler    Page 7
   309 00000220         
   310 00000220         
   311 00000220                 END
-Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M4.fp --apcs=int
-erwork --depend=..\obj\lib_mem_a.d -o..\obj\lib_mem_a.o -IE:\_program_file\STM3
-2F407ZG\clock_design\USER\RTE -ID:\Software\Program\MDK\Keil_v5\ARM\PACK\Keil\S
-TM32F4xx_DFP\1.0.8\Device\Include -ID:\Software\Program\MDK\Keil_v5\ARM\CMSIS\I
-nclude --predefine="__MICROLIB SETA 1" --predefine="__UVISION_VERSION SETA 514"
- --predefine="STM32F40_41xxx SETA 1" --list=..\obj\lib_mem_a.lst ..\UCOSIII\uC-
-LIB\Ports\ARM-Cortex-M4\RealView\lib_mem_a.asm
+Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M4.fp.sp --apcs=
+interwork --depend=..\obj\lib_mem_a.d -o..\obj\lib_mem_a.o -ID:\software\Arm\Pa
+cks\Keil\STM32F4xx_DFP\1.0.8\Device\Include --predefine="__MICROLIB SETA 1" --p
+redefine="__UVISION_VERSION SETA 538" --predefine="STM32F40_41xxx SETA 1" --lis
+t=..\obj\lib_mem_a.lst ..\UCOSIII\uC-LIB\Ports\ARM-Cortex-M4\RealView\lib_mem_a
+.asm
 
 
 

@@ -10,7 +10,7 @@
 ..\obj\lcdconf_flexcolor_template.o: ..\SYSTEM\sys\sys.h
 ..\obj\lcdconf_flexcolor_template.o: ..\USER\stm32f4xx.h
 ..\obj\lcdconf_flexcolor_template.o: ..\CORE\core_cm4.h
-..\obj\lcdconf_flexcolor_template.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\lcdconf_flexcolor_template.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\lcdconf_flexcolor_template.o: ..\FWLIB\CMSIS\Include\core_cmInstr.h
 ..\obj\lcdconf_flexcolor_template.o: ..\FWLIB\CMSIS\Include\core_cmFunc.h
 ..\obj\lcdconf_flexcolor_template.o: ..\CORE\core_cm4_simd.h
@@ -43,7 +43,7 @@
 ..\obj\lcdconf_flexcolor_template.o: ..\FWLIB\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dac.h
 ..\obj\lcdconf_flexcolor_template.o: ..\FWLIB\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dcmi.h
 ..\obj\lcdconf_flexcolor_template.o: ..\FWLIB\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_fsmc.h
-..\obj\lcdconf_flexcolor_template.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\lcdconf_flexcolor_template.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 ..\obj\lcdconf_flexcolor_template.o: ..\HARDWARE\TOUCH\touch.h
 ..\obj\lcdconf_flexcolor_template.o: ..\HARDWARE\TOUCH\ott2001a.h
 ..\obj\lcdconf_flexcolor_template.o: ..\HARDWARE\TOUCH\gt9147.h

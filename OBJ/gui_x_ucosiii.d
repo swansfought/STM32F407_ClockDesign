@@ -7,12 +7,12 @@
 ..\obj\gui_x_ucosiii.o: ..\EMWIN\STemWin\inc\Global.h
 ..\obj\gui_x_ucosiii.o: ..\EMWIN\STemWin\inc\GUI_Version.h
 ..\obj\gui_x_ucosiii.o: ..\UCOSIII\uCOS_CONFIG\includes.h
-..\obj\gui_x_ucosiii.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\gui_x_ucosiii.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
-..\obj\gui_x_ucosiii.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
-..\obj\gui_x_ucosiii.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
-..\obj\gui_x_ucosiii.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
-..\obj\gui_x_ucosiii.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\gui_x_ucosiii.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\gui_x_ucosiii.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\gui_x_ucosiii.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\gui_x_ucosiii.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\gui_x_ucosiii.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\gui_x_ucosiii.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
 ..\obj\gui_x_ucosiii.o: ..\UCOSIII\uCOS-III\Source\os.h
 ..\obj\gui_x_ucosiii.o: ..\UCOSIII\uCOS_CONFIG\os_cfg.h
 ..\obj\gui_x_ucosiii.o: ..\UCOSIII\uC-CPU\ARM-Cortex-M4\RealView\cpu.h
@@ -34,7 +34,7 @@
 ..\obj\gui_x_ucosiii.o: ..\FWLIB\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_adc.h
 ..\obj\gui_x_ucosiii.o: ..\USER\stm32f4xx.h
 ..\obj\gui_x_ucosiii.o: ..\CORE\core_cm4.h
-..\obj\gui_x_ucosiii.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\gui_x_ucosiii.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\gui_x_ucosiii.o: ..\FWLIB\CMSIS\Include\core_cmInstr.h
 ..\obj\gui_x_ucosiii.o: ..\FWLIB\CMSIS\Include\core_cmFunc.h
 ..\obj\gui_x_ucosiii.o: ..\CORE\core_cm4_simd.h

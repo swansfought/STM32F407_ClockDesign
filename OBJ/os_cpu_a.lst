@@ -381,13 +381,12 @@ ARM Macro Assembler    Page 6
               00000000 
               00000000 
               00000000 
-Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M4.fp --apcs=int
-erwork --depend=..\obj\os_cpu_a.d -o..\obj\os_cpu_a.o -IE:\_program_file\STM32F
-407ZG\clock_design\USER\RTE -ID:\Software\Program\MDK\Keil_v5\ARM\PACK\Keil\STM
-32F4xx_DFP\1.0.8\Device\Include -ID:\Software\Program\MDK\Keil_v5\ARM\CMSIS\Inc
-lude --predefine="__MICROLIB SETA 1" --predefine="__UVISION_VERSION SETA 514" -
--predefine="STM32F40_41xxx SETA 1" --list=..\obj\os_cpu_a.lst ..\UCOSIII\uCOS-I
-II\Ports\ARM-Cortex-M4\Generic\RealView\os_cpu_a.asm
+Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M4.fp.sp --apcs=
+interwork --depend=..\obj\os_cpu_a.d -o..\obj\os_cpu_a.o -ID:\software\Arm\Pack
+s\Keil\STM32F4xx_DFP\1.0.8\Device\Include --predefine="__MICROLIB SETA 1" --pre
+define="__UVISION_VERSION SETA 538" --predefine="STM32F40_41xxx SETA 1" --list=
+..\obj\os_cpu_a.lst ..\UCOSIII\uCOS-III\Ports\ARM-Cortex-M4\Generic\RealView\os
+_cpu_a.asm
 
 
 

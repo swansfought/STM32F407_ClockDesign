@@ -16,7 +16,7 @@
 ..\obj\interface.o: ..\EMWIN\STemWin\inc\GUI_Private.h
 ..\obj\interface.o: ..\EMWIN\STemWin\inc\LCD_Protected.h
 ..\obj\interface.o: ..\EMWIN\STemWin\inc\GUI_Debug.h
-..\obj\interface.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\interface.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\obj\interface.o: ..\EMWIN\STemWin\inc\SCROLLBAR.h
 ..\obj\interface.o: ..\EMWIN\STemWin\inc\WIDGET.h
 ..\obj\interface.o: ..\EMWIN\STemWin\inc\CALENDAR.h
@@ -48,7 +48,7 @@
 ..\obj\interface.o: ..\SYSTEM\sys\sys.h
 ..\obj\interface.o: ..\USER\stm32f4xx.h
 ..\obj\interface.o: ..\CORE\core_cm4.h
-..\obj\interface.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\interface.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\interface.o: ..\FWLIB\CMSIS\Include\core_cmInstr.h
 ..\obj\interface.o: ..\FWLIB\CMSIS\Include\core_cmFunc.h
 ..\obj\interface.o: ..\CORE\core_cm4_simd.h
@@ -81,9 +81,9 @@
 ..\obj\interface.o: ..\FWLIB\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dac.h
 ..\obj\interface.o: ..\FWLIB\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dcmi.h
 ..\obj\interface.o: ..\FWLIB\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_fsmc.h
-..\obj\interface.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
-..\obj\interface.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\interface.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\interface.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\interface.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\interface.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 ..\obj\interface.o: ..\SYSTEM\delay\delay.h
 ..\obj\interface.o: ..\HARDWARE\RTC\rtc.h
 ..\obj\interface.o: ..\HARDWARE\BEEP\beep.h

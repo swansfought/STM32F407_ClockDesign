@@ -3,7 +3,7 @@
 ..\obj\delay.o: ..\SYSTEM\sys\sys.h
 ..\obj\delay.o: ..\USER\stm32f4xx.h
 ..\obj\delay.o: ..\CORE\core_cm4.h
-..\obj\delay.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\delay.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\delay.o: ..\FWLIB\CMSIS\Include\core_cmInstr.h
 ..\obj\delay.o: ..\FWLIB\CMSIS\Include\core_cmFunc.h
 ..\obj\delay.o: ..\CORE\core_cm4_simd.h
@@ -37,12 +37,12 @@
 ..\obj\delay.o: ..\FWLIB\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dcmi.h
 ..\obj\delay.o: ..\FWLIB\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_fsmc.h
 ..\obj\delay.o: ..\UCOSIII\uCOS_CONFIG\includes.h
-..\obj\delay.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\delay.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
-..\obj\delay.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
-..\obj\delay.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
-..\obj\delay.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
-..\obj\delay.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\delay.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\delay.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\delay.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\delay.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\delay.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\delay.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
 ..\obj\delay.o: ..\UCOSIII\uCOS-III\Source\os.h
 ..\obj\delay.o: ..\UCOSIII\uCOS_CONFIG\os_cfg.h
 ..\obj\delay.o: ..\UCOSIII\uC-CPU\ARM-Cortex-M4\RealView\cpu.h

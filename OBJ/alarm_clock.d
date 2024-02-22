@@ -16,7 +16,7 @@
 ..\obj\alarm_clock.o: ..\EMWIN\STemWin\inc\GUI_Private.h
 ..\obj\alarm_clock.o: ..\EMWIN\STemWin\inc\LCD_Protected.h
 ..\obj\alarm_clock.o: ..\EMWIN\STemWin\inc\GUI_Debug.h
-..\obj\alarm_clock.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\alarm_clock.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\obj\alarm_clock.o: ..\EMWIN\STemWin\inc\SCROLLBAR.h
 ..\obj\alarm_clock.o: ..\EMWIN\STemWin\inc\WIDGET.h
 ..\obj\alarm_clock.o: ..\EMWIN\STemWin\inc\CALENDAR.h
@@ -48,7 +48,7 @@
 ..\obj\alarm_clock.o: ..\SYSTEM\sys\sys.h
 ..\obj\alarm_clock.o: ..\USER\stm32f4xx.h
 ..\obj\alarm_clock.o: ..\CORE\core_cm4.h
-..\obj\alarm_clock.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\alarm_clock.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\alarm_clock.o: ..\FWLIB\CMSIS\Include\core_cmInstr.h
 ..\obj\alarm_clock.o: ..\FWLIB\CMSIS\Include\core_cmFunc.h
 ..\obj\alarm_clock.o: ..\CORE\core_cm4_simd.h
@@ -81,5 +81,5 @@
 ..\obj\alarm_clock.o: ..\FWLIB\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dac.h
 ..\obj\alarm_clock.o: ..\FWLIB\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dcmi.h
 ..\obj\alarm_clock.o: ..\FWLIB\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_fsmc.h
-..\obj\alarm_clock.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
-..\obj\alarm_clock.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\alarm_clock.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\alarm_clock.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h

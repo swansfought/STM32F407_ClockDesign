@@ -3,7 +3,7 @@
 ..\obj\beep.o: ..\SYSTEM\sys\sys.h
 ..\obj\beep.o: ..\USER\stm32f4xx.h
 ..\obj\beep.o: ..\CORE\core_cm4.h
-..\obj\beep.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\beep.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\beep.o: ..\FWLIB\CMSIS\Include\core_cmInstr.h
 ..\obj\beep.o: ..\FWLIB\CMSIS\Include\core_cmFunc.h
 ..\obj\beep.o: ..\CORE\core_cm4_simd.h

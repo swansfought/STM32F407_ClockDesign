@@ -10,7 +10,7 @@
 ..\obj\guiconf.o: ..\SYSTEM\sys\sys.h
 ..\obj\guiconf.o: ..\USER\stm32f4xx.h
 ..\obj\guiconf.o: ..\CORE\core_cm4.h
-..\obj\guiconf.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\guiconf.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\guiconf.o: ..\FWLIB\CMSIS\Include\core_cmInstr.h
 ..\obj\guiconf.o: ..\FWLIB\CMSIS\Include\core_cmFunc.h
 ..\obj\guiconf.o: ..\CORE\core_cm4_simd.h

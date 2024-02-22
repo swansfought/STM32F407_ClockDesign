@@ -2,7 +2,7 @@
 ..\obj\stm32f4xx_gpio.o: ..\FWLIB\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_gpio.h
 ..\obj\stm32f4xx_gpio.o: ..\USER\stm32f4xx.h
 ..\obj\stm32f4xx_gpio.o: ..\CORE\core_cm4.h
-..\obj\stm32f4xx_gpio.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\stm32f4xx_gpio.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\stm32f4xx_gpio.o: ..\FWLIB\CMSIS\Include\core_cmInstr.h
 ..\obj\stm32f4xx_gpio.o: ..\FWLIB\CMSIS\Include\core_cmFunc.h
 ..\obj\stm32f4xx_gpio.o: ..\CORE\core_cm4_simd.h

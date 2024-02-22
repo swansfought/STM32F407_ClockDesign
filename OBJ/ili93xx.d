@@ -3,7 +3,7 @@
 ..\obj\ili93xx.o: ..\SYSTEM\sys\sys.h
 ..\obj\ili93xx.o: ..\USER\stm32f4xx.h
 ..\obj\ili93xx.o: ..\CORE\core_cm4.h
-..\obj\ili93xx.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\ili93xx.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\ili93xx.o: ..\FWLIB\CMSIS\Include\core_cmInstr.h
 ..\obj\ili93xx.o: ..\FWLIB\CMSIS\Include\core_cmFunc.h
 ..\obj\ili93xx.o: ..\CORE\core_cm4_simd.h
@@ -36,8 +36,8 @@
 ..\obj\ili93xx.o: ..\FWLIB\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dac.h
 ..\obj\ili93xx.o: ..\FWLIB\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dcmi.h
 ..\obj\ili93xx.o: ..\FWLIB\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_fsmc.h
-..\obj\ili93xx.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\ili93xx.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 ..\obj\ili93xx.o: ..\HARDWARE\LCD\font.h
 ..\obj\ili93xx.o: ..\SYSTEM\usart\usart.h
-..\obj\ili93xx.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\ili93xx.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 ..\obj\ili93xx.o: ..\SYSTEM\delay\delay.h

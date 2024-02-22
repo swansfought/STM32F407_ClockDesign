@@ -16,7 +16,7 @@
 ..\obj\settime.o: ..\EMWIN\STemWin\inc\GUI_Private.h
 ..\obj\settime.o: ..\EMWIN\STemWin\inc\LCD_Protected.h
 ..\obj\settime.o: ..\EMWIN\STemWin\inc\GUI_Debug.h
-..\obj\settime.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\settime.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\obj\settime.o: ..\EMWIN\STemWin\inc\SCROLLBAR.h
 ..\obj\settime.o: ..\EMWIN\STemWin\inc\WIDGET.h
 ..\obj\settime.o: ..\EMWIN\STemWin\inc\CALENDAR.h
@@ -44,14 +44,14 @@
 ..\obj\settime.o: ..\EMWIN\STemWin\inc\TEXT.h
 ..\obj\settime.o: ..\EMWIN\STemWin\inc\TREEVIEW.h
 ..\obj\settime.o: ..\EMWIN\STemWin\inc\KNOB.h
-..\obj\settime.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\settime.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
-..\obj\settime.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\settime.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\settime.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\settime.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\obj\settime.o: ..\HARDWARE\RTC\rtc.h
 ..\obj\settime.o: ..\SYSTEM\sys\sys.h
 ..\obj\settime.o: ..\USER\stm32f4xx.h
 ..\obj\settime.o: ..\CORE\core_cm4.h
-..\obj\settime.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\settime.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\settime.o: ..\FWLIB\CMSIS\Include\core_cmInstr.h
 ..\obj\settime.o: ..\FWLIB\CMSIS\Include\core_cmFunc.h
 ..\obj\settime.o: ..\CORE\core_cm4_simd.h

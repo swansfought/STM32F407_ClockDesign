@@ -14,12 +14,12 @@
 ..\obj\os_mem.o: ..\UCOSIII\uCOS-III\Source\os_type.h
 ..\obj\os_mem.o: ..\UCOSIII\uCOS-III\Ports\ARM-Cortex-M4\Generic\RealView\os_cpu.h
 ..\obj\os_mem.o: ..\SYSTEM\usart\usart.h
-..\obj\os_mem.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\os_mem.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 ..\obj\os_mem.o: ..\USER\stm32f4xx_conf.h
 ..\obj\os_mem.o: ..\FWLIB\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_adc.h
 ..\obj\os_mem.o: ..\USER\stm32f4xx.h
 ..\obj\os_mem.o: ..\CORE\core_cm4.h
-..\obj\os_mem.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\os_mem.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\os_mem.o: ..\FWLIB\CMSIS\Include\core_cmInstr.h
 ..\obj\os_mem.o: ..\FWLIB\CMSIS\Include\core_cmFunc.h
 ..\obj\os_mem.o: ..\CORE\core_cm4_simd.h

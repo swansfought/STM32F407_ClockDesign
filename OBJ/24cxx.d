@@ -3,7 +3,7 @@
 ..\obj\24cxx.o: ..\SYSTEM\sys\sys.h
 ..\obj\24cxx.o: ..\USER\stm32f4xx.h
 ..\obj\24cxx.o: ..\CORE\core_cm4.h
-..\obj\24cxx.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\24cxx.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\24cxx.o: ..\FWLIB\CMSIS\Include\core_cmInstr.h
 ..\obj\24cxx.o: ..\FWLIB\CMSIS\Include\core_cmFunc.h
 ..\obj\24cxx.o: ..\CORE\core_cm4_simd.h

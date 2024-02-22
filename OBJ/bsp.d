@@ -1,7 +1,7 @@
 ..\obj\bsp.o: ..\UCOSIII\UCOS_BSP\bsp.c
 ..\obj\bsp.o: ..\UCOSIII\UCOS_BSP\bsp.h
-..\obj\bsp.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\bsp.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\bsp.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\bsp.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
 ..\obj\bsp.o: ..\UCOSIII\uC-CPU\ARM-Cortex-M4\RealView\cpu.h
 ..\obj\bsp.o: ..\UCOSIII\uC-CPU\cpu_def.h
 ..\obj\bsp.o: ..\UCOSIII\uCOS_CONFIG\cpu_cfg.h
@@ -16,7 +16,7 @@
 ..\obj\bsp.o: ..\FWLIB\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_adc.h
 ..\obj\bsp.o: ..\USER\stm32f4xx.h
 ..\obj\bsp.o: ..\CORE\core_cm4.h
-..\obj\bsp.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\bsp.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\bsp.o: ..\FWLIB\CMSIS\Include\core_cmInstr.h
 ..\obj\bsp.o: ..\FWLIB\CMSIS\Include\core_cmFunc.h
 ..\obj\bsp.o: ..\CORE\core_cm4_simd.h

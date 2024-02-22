@@ -855,13 +855,12 @@ ARM Macro Assembler    Page 14
   432 0000001C                 END
               00000000 
               00000000 
-Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M4.fp --apcs=int
-erwork --depend=..\obj\startup_stm32f40_41xxx.d -o..\obj\startup_stm32f40_41xxx
-.o -IE:\_program_file\STM32F407ZG\clock_design\USER\RTE -ID:\Software\Program\M
-DK\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include -ID:\Software\Progr
-am\MDK\Keil_v5\ARM\CMSIS\Include --predefine="__MICROLIB SETA 1" --predefine="_
-_UVISION_VERSION SETA 514" --predefine="STM32F40_41xxx SETA 1" --list=..\obj\st
-artup_stm32f40_41xxx.lst ..\CORE\startup_stm32f40_41xxx.s
+Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M4.fp.sp --apcs=
+interwork --depend=..\obj\startup_stm32f40_41xxx.d -o..\obj\startup_stm32f40_41
+xxx.o -ID:\software\Arm\Packs\Keil\STM32F4xx_DFP\1.0.8\Device\Include --predefi
+ne="__MICROLIB SETA 1" --predefine="__UVISION_VERSION SETA 538" --predefine="ST
+M32F40_41xxx SETA 1" --list=..\obj\startup_stm32f40_41xxx.lst ..\CORE\startup_s
+tm32f40_41xxx.s
 
 
 

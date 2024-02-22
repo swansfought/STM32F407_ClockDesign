@@ -1,5 +1,5 @@
 ..\obj\guidrv_template.o: ..\EMWIN\STemWin\Config\GUIDRV_Template.c
-..\obj\guidrv_template.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\guidrv_template.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\obj\guidrv_template.o: ..\EMWIN\STemWin\inc\LCD_Private.h
 ..\obj\guidrv_template.o: ..\EMWIN\STemWin\Config\LCDConf.h
 ..\obj\guidrv_template.o: ..\EMWIN\STemWin\inc\LCD_Protected.h
@@ -18,7 +18,7 @@
 ..\obj\guidrv_template.o: ..\SYSTEM\sys\sys.h
 ..\obj\guidrv_template.o: ..\USER\stm32f4xx.h
 ..\obj\guidrv_template.o: ..\CORE\core_cm4.h
-..\obj\guidrv_template.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\guidrv_template.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\guidrv_template.o: ..\FWLIB\CMSIS\Include\core_cmInstr.h
 ..\obj\guidrv_template.o: ..\FWLIB\CMSIS\Include\core_cmFunc.h
 ..\obj\guidrv_template.o: ..\CORE\core_cm4_simd.h
@@ -51,4 +51,4 @@
 ..\obj\guidrv_template.o: ..\FWLIB\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dac.h
 ..\obj\guidrv_template.o: ..\FWLIB\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dcmi.h
 ..\obj\guidrv_template.o: ..\FWLIB\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_fsmc.h
-..\obj\guidrv_template.o: D:\Software\Program\MDK\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\guidrv_template.o: D:\software\Arm\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
